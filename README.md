@@ -25,7 +25,10 @@ Frameworks & Libraries:
 
 React.js
 
-Tools & Platforms:
+**Build tools**
+vite
+
+**Tools & Platforms:**
 
 Git & GitHub
 
